@@ -1,0 +1,6 @@
+tensorflow>=2.12,<3
+numpy>=1.23
+matplotlib>=3.7
+imageio>=2.31
+tqdm>=4.66
+Pillow>=10.0
